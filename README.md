@@ -5,6 +5,8 @@
 ## Key Concepts Learned
 
 - Shadcn/ui
+- React Router DOM
+- Helmet SEO
 - [in progres...]
 
 ## Installation

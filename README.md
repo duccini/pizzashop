@@ -7,6 +7,9 @@
 - Shadcn/ui
 - React Router DOM
 - Helmet SEO
+- Shadcn/ui Dark & Light Themes
+- Toast with Sonner
+- Charts with Recharts
 - [in progres...]
 
 ## Installation
